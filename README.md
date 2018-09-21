@@ -8,7 +8,7 @@ The locations of the following safe spots were gathered for various cities :
 2. Hospitals
 3. Malls
 
-<b> Code here demonstrates process flow for collecting details of Delhi hospitals. You'll need to get an API key from https://developers.google.com/places/web-service/intro. </b>
+<b> Code here demonstrates flow for collecting details of Delhi hospitals. You'll need to obtain an API key from https://developers.google.com/places/web-service/intro. </b>
 
 ## Google Maps API
 Google Maps API allows the user possessing a relevant API key to scrape locations and their details from Google Maps. There are various API's available; <b> Places API </b> is specifically for the places' details.
